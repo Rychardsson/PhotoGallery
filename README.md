@@ -51,7 +51,6 @@ Não são necessárias dependências adicionais ou etapas de instalação, já q
 - Visualizar Fotos: Role pela galeria para explorar as diferentes fotos.
 - Clique para Ampliar: Clique em qualquer foto para visualizá-la em tamanho maior. Pressione o botão de fechar ou clique fora da imagem para retornar à galeria.
 
-
 ## Créditos
 Este projeto faz parte do currículo da FreeCodeCamp. Agradecimentos especiais à FreeCodeCamp por fornecer recursos e orientações para o desenvolvimento web.
 
